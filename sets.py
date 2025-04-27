@@ -14,4 +14,6 @@ It is unordered (no indexing).
 Defined using curly braces {} or the set() function.
 cant chnage by index
 no way to chnage 
+
+unio , Intersection and differences  
 '''
